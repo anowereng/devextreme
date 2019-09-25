@@ -1,4 +1,10 @@
 # devextreme
+
+```
+npx -p devextreme-cli devextreme new angular-app app-name
+cd app-name
+npm run start
+```
 ## demos devextreme
 https://js.devexpress.com/Demos/WidgetsGallery/
 
