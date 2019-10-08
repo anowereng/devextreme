@@ -16,3 +16,6 @@ https://js.devexpress.com/Documentation/Guide/Angular_Components/Getting_Started
  
  ##  angular
  https://js.devexpress.com/Documentation/Guide/Angular_Components/Component_Configuration_Syntax/
+ 
+  ##  Grid Editing
+ https://js.devexpress.com/Documentation/ApiReference/UI_Widgets/dxDataGrid/Configuration/editing/
