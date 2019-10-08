@@ -13,3 +13,6 @@ https://js.devexpress.com/Documentation/Guide/Angular_Components/Getting_Started
 
 ## Getting demo with angular
  https://github.com/DevExpress/devextreme-examples/tree/19_1/universal-angular
+ 
+ ##  angular
+ https://js.devexpress.com/Documentation/Guide/Angular_Components/Component_Configuration_Syntax/
